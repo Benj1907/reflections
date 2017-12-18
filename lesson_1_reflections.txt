@@ -1,0 +1,8 @@
+I don't have any specific reflection on version control.
+Version control is important to:
+ - Be able to have development branch for new features different from prod
+ - To hot fix
+
+The pros of using manual commits is that you can commit per logical unit.
+No automatic process is able to do that with 100% success.
+The cons is that you may lose your work if you forget to commit.
