@@ -1,1 +1,2 @@
 This is only a test
+And now I am adding a new line.
